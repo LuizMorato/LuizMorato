@@ -5,11 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/LuizMorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMorato&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=LuizMorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMorato&layout=demo&langs_count=7&theme=dracula"/>
 </div>
-
-##
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50/>          
 ##
