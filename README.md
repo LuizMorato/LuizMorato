@@ -3,10 +3,26 @@
 - 👋 Olá, sou Luiz Gabriel Morato Dias! / Hi, i'm Luiz!
 - Brasileiro / Brazilian
 - 👀 16 anos, estudante de Análise e Desenvolvimento de Sistemas / 16 years, Systems Analysis and Development student.
-### 🌱 Estou aprendendo... / I’m currently learning...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/882/882730.png" width="40" height="40"/>
+
+<div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"/>
+  
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=LuizMorato&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuizMorato&show_icons=true" />
+
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMorato&layout=compact)](https://github.com/LuizMorato/github-readme-stats)
+
+</div>
+
+
 
 Click to see my professional profile!
 
