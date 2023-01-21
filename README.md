@@ -1,6 +1,6 @@
 ### Quem sou eu? / Who am i?
 - 👋 Olá, sou Luiz Gabriel Morato Dias! / Hi, i'm Luiz!
-- 👀 16 anos, estudante de Análise e Desenvolvimento de Sistemas / 16 years, Systems Analysis and Development student.
+- 👀 16 anos, estudante de Desenvolvimento de Sistemas / 16 years, Systems Development student.
 ##
 
 <div align="center">
