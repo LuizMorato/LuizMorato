@@ -8,7 +8,7 @@
 
 <p align="left"> 
   Hi, i'm Luiz Morato. I'm 16 years, brazilian and Software Development Student. <br> <br>
-  I have a <b>Medium Level Technical Professional Qualification in Systems Development Assistant</b> - professional who develops programs and assists in systems       analysis and database modeling.
+  I have a <b>Medium Level Technical Professional Qualification in Systems Development Assistant</b> - professional who develops programs and assists in systems analysis and database modeling.
 </p>
 
 <p align="left">
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     
 * Front-End Development:    
     
