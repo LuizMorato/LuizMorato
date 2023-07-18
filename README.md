@@ -4,7 +4,7 @@
   
 </br>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif">
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" min-width="200px" max-width="400px" width="300px" align="right" alt="gif">
 
 <p align="left"> 
   Hi, i'm Luiz Morato. I'm 16 years, brazilian and Software Development Student. <br> <br>
@@ -49,9 +49,3 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
    </p>
 </p>  
-
-<div align="center">
-
-![Snake animation](https://github.com/LuizMorato/LuizMorato/blob/output/github-contribution-grid-snake.svg)
-
-</div>
