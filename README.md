@@ -32,11 +32,7 @@
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuizMorato&show_icons=true&theme=dracula"/>
-  
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMorato&layout=compact&langs_count=7&theme=dracula"/>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luizmorato&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
