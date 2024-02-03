@@ -7,9 +7,7 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" min-width="200px" max-width="400px" width="300px" align="right" alt="gif">
 
 <p align="left"> 
-  Hi, i'm Luiz Morato. I'm 16 years, brazilian and Software Development Student. <br> <br>
-  I have a <b>Medium Level Technical Professional Qualification in Systems Development Assistant</b> - professional who develops programs and assists in systems analysis and database modeling.
-</p>
+  Hi, i'm Luiz Morato. I'm 17 years, brazilian and Software Development Student.
 
 <p align="left">
   🌐👨🏻‍💻 Skills:
