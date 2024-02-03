@@ -17,13 +17,13 @@
    
 - Languages i'm learning:  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,solidity" />
+    <img src="https://skillicons.dev/icons?i=c,py,js,solidity,lua" />
   </a>
   
 - Other technologies i'm learning:
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,flask,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,flask,django,mysql" />
   </a>
    
 <p align="left"> 
