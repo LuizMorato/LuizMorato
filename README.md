@@ -15,7 +15,7 @@
    
 - Languages i'm learning:  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,js,solidity,lua" />
+    <img src="https://skillicons.dev/icons?i=c,cs,py,js,solidity,lua" />
   </a>
   
 - Other technologies i'm learning:
